@@ -16,4 +16,4 @@ This project showcases a clean and simple design focused on yoga classes promoti
 
 ## Demo Video
 
-
+[demo_desktop.webm](https://github.com/user-attachments/assets/ef982d1e-2716-4746-ae91-75c4b5f3a6ab)
