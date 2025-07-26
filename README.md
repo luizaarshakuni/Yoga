@@ -14,6 +14,6 @@ This project showcases a clean and simple design focused on yoga classes promoti
 - HTML5  
 - CSS3
 
-## Demo
+## Demo Video
 
 
